@@ -1,2 +1,2 @@
 # ZeroGuard
-RP Guard update.
+Wachen orientiertes Update und tweaks.

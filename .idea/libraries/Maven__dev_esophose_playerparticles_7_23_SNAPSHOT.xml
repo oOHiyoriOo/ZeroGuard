@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: dev.esophose:playerparticles:7.23-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/dev/esophose/playerparticles/7.23-SNAPSHOT/playerparticles-7.23-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/dev/esophose/playerparticles/7.23-SNAPSHOT/playerparticles-7.23-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/dev/esophose/playerparticles/7.23-SNAPSHOT/playerparticles-7.23-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

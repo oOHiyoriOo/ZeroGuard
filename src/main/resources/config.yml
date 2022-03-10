@@ -1,0 +1,30 @@
+# Permission needed to enable the stick.
+wachen_permissions: group.wache
+
+# how often do guards need to use the stick before user is being jailed (in range of ko_hits + 1)
+ko_hits: 3
+
+# the name of the Jail the player is send to.
+jail_name: offi
+# the time a player os kept in Jail (false = infinity)
+jail_time: false
+
+
+# Where is the center of our square?
+notify_center:
+  x: 0
+  z: 0
+# the size the square has r = kill_notify_range
+kill_notify_range: 600
+
+# Handling the respawn of New Life
+# the worldname the player is gonna be respawned in!
+respawn_world: Stadtbau
+# the location the player should respawn.
+respawn:
+  x: -85
+  y: 71
+  z: -93
+
+# The Discord webhook url used to send kill messages into discord, false = disabled!
+Discord_Webhook_url: https://discord.com/api/webhooks/XXXXXXXXXXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
